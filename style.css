@@ -1,0 +1,13 @@
+/*
+Theme Name:     Twenty Ten Dale
+Theme URI:      http://github.com/enslam/twentyten-dale/
+Description:    Wordpress theme for dale-williams.com 
+Author:         Dale Williams
+Author URI:     http://dale-williams.com/
+Template:       twentyten
+Version:        0.1.0
+Tags: black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style
+*/
+
+@import url("../twenty-ten/style.css");
+
